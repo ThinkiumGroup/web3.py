@@ -1,0 +1,6 @@
+*.pyc
+test*.py
+.idea/
+.idea/*
+keystore/*
+venv
